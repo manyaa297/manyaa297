@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-<!--
-**manyaa297/manyaa297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# 💫 About Me:
+
+
+## 💫 About Me:
 🔭 I’m currently working on:<br>• Building strong foundations in Data Structures & Algorithms<br>• Web development and real-world project development<br>• Preparing for internship opportunities at FAANG and top tech companies<br><br>👯 I’m looking to collaborate on:<br>• Internship opportunities at FAANG and other top tech companies<br>• Open-source and real-world development projects<br>• Skill-building collaborations with like-minded developers<br><br>🤝 I’m looking for help with:<br>• FAANG-style coding problems and interview preparation<br>• Improving problem-solving and system design basics<br>• Guidance on internships and career growth<br><br>🌱 I’m currently learning:<br>• Data Structures & Algorithms<br>• Full-stack web development<br>• Competitive programming & interview-focused coding<br><br>💬 Ask me about:<br>• Internship preparation and learning resources<br>• Web development basics<br>• DSA fundamentals and coding practice strategies<br><br>⚡ Fun fact:<br>• I believe consistency beats perfection and I’m learning every day 🌱✨
 
 
